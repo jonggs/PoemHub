@@ -1,0 +1,16 @@
+Good Day, Sir!!
+
+Poem Hub is a website exclusive for writers who live in Pampanga
+regardless of the language they use.
+
+Home page contains the website logo and the tagline.
+Blog page contains the "filtered" entries from the writers.
+	- Entries are in .jpg file designed by the developers.
+	- Some entries won't be featured because only filtered ones are there.
+About page contains some info about the website and its developers
+A Submit button is located below the about page.
+	- Once clicked, the user can now input their pen name,
+	city/municipality, title of work, and the content of their work.
+	- All entrie will then be submitted in the database of the website.
+
+Thank you, and more power!!

@@ -1,0 +1,15 @@
+/* Font style = Montserrat*/
+@font-face{
+    font-family: Montserrat;
+    src: url('./Fonts/Montserrat/Montserrat-Regular.ttf');
+}
+/* Font style = Vollkorn*/
+@font-face{
+    font-family: Vollkorn;
+    src: url('./Fonts/Volkorn/Vollkorn-Regular.ttf');
+}
+/* Font style = Winchester*/
+@font-face{
+    font-family: Winchester;
+    src: url('./Fonts/Winchester/Winchester.ttf.ttf');
+}
